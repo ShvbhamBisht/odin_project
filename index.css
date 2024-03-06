@@ -1,0 +1,16 @@
+div.heading{
+  text-align: center;
+}
+h1.display{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: inline;
+  background-color: rgb(207, 87, 8);
+}
+div.links{
+  text-align: center;
+}
+ul.main{
+  text-align: center;
+  display: inline-block;
+  background-color: rgb(224, 220, 7);
+}
